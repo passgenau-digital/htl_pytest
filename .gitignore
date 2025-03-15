@@ -1,5 +1,7 @@
 reveal.js/
 .venv/
+.vscode/
+pytest_questions.xml
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
